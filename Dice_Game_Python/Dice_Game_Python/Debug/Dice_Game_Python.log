@@ -1,0 +1,23 @@
+﻿  card.cpp
+  CPUplayer.cpp
+  main.cpp
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(739,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(755,36): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(762,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(775,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(871,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(1007,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(1075,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(1091,36): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(1098,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(1181,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\pairs.h(1302,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\continuousPairs.h(282,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\continuousPairs.h(297,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\continuousPairs.h(390,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\continuousPairs.h(477,33): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\continuousPairs.h(575,31): warning C4018: '<': signed/unsigned mismatch
+  player.cpp
+C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Dice_Game_Python\player.cpp(107,34): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Dice_Game_Python.vcxproj -> C:\Users\ravin\Downloads\Dice_Game_Python\Dice_Game_Python\Debug\Dice_Game_Python.exe
